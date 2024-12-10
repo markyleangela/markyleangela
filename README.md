@@ -8,12 +8,6 @@
 <p>🌱 I’m currently learning <strong>Python, Django, React, Tailwind.CSS, HTML5 and CSS3</strong></p>
 </li>
 <li>
-<p>👯 I’m interested in <strong>Creating Software Solutions with Artificial Intelligence </strong></p>
-</li>
-<li>
-<p>📫 How to reach me: <strong><a href="mailto:markyleangela@gmail.com">markyleangela@gmail.com</a></strong></p>
-</li>
-<li>
 <p>⚡ What I like to do: <strong>I like reading, badminton, playing chess…and coding of course</strong></p>
 </li>
 </ul>
@@ -64,4 +58,3 @@
 </p>
 <hr>
 </a><p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a><a href="https://github.com/markyleangela">Kyle Angela Mar</a></p>
-<p>Last Edited on: 11/27/2024</p> 
