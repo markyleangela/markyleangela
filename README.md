@@ -5,10 +5,10 @@
 <p>🔭 I’m currently working on my <strong>Computer Science Degree LMAO</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>Python, Django, React, Tailwind.CSS, HTML5 and CSS3</strong></p>
+<p>🌱 I’m currently learning <strong>C#, Asp.NET, Springboot, React, Tailwind.CSS, Python, AI and ML </strong></p>
 </li>
 <li>
-<p>⚡ What I like to do: <strong>I like reading, badminton, playing chess…and coding of course</strong></p>
+<p>⚡ What I like to do: <strong>I like reading books, badminton, playing chess…and coding</strong></p>
 </li>
 </ul>
 <h3 align="center">Connect with me:</h3>
